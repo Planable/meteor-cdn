@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'planable:cdn',
+  name: 'nickgudumac:cdn',
   version: '1.4.0',
   summary: 'Serve Meteor content from a CDN',
   git: 'https://github.com/Planable/meteor-cdn',
